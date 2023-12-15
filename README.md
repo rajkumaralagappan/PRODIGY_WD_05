@@ -14,7 +14,7 @@ Welcome to the Weather Go, a Beginner Friendly Weather web application powered b
 
 ## Setup
 
-1. Clone the repository: `git clone https://www.github.com/rajkumaralagappan2/WeatherGo/git`
+1. Clone the repository: `git clone https://www.github.com/rajkumaralagappan/PRODIGY_WD_05.git`
 2. Install dependencies: `npm install`
 3. Set up your OpenWeather API key by creating an account at [OpenWeather](https://openweathermap.org/api) and replacing `YOUR_API_KEY` in the `.env` file.
 4. Run the app: `npm start or node app.js or nodemon app.js`
